@@ -1,0 +1,47 @@
+@media only screen and (max-width: 720px){
+    
+    #header{
+        flex-direction: column;
+
+    }
+
+    #header div{
+        width: 100%;
+    }
+
+    #menu{
+        flex-direction: column;
+    }
+
+    #menu #container .principal{
+        width: 100%;
+    }
+
+    #principalContent{
+        flex-direction: column;
+    }
+
+    #principalContent .main{
+        width: 100%;
+        
+    }
+
+    #principalContent .aside{
+        width: 100%;
+        
+    }
+
+    #conteiner, #conteiner .principal{
+        width: 100%;
+        border: 0px;
+    }
+
+    .FlexContainer{
+        flex-direction: column;
+    }
+
+    .FlexContainer img{
+        width: 100%;
+    }
+
+}
