@@ -30,7 +30,7 @@ p{
 }
 
 body {
-    background: #f9f9f9f7 url("../images/blue.jpg");
+    background: #f9f9f9f7 url("./images/blue.JPG");
     font-size: 11px;
     font-family: 'Trebuchet MS',  sans-serif;
     color: #131313;
